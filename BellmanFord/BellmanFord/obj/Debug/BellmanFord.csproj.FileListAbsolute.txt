@@ -1,0 +1,8 @@
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\BellmanFord.exe.config
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\BellmanFord.exe
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\BellmanFord.pdb
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.csprojResolveAssemblyReference.cache
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.exe
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.pdb
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\graph.txt
