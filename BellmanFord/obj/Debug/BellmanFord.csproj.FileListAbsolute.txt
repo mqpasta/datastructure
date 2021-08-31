@@ -1,0 +1,16 @@
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\BellmanFord.exe.config
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\BellmanFord.exe
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\BellmanFord.pdb
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.csprojResolveAssemblyReference.cache
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.exe
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\obj\Debug\BellmanFord.pdb
+C:\Users\AD\source\repos\BellmanFord\BellmanFord\bin\Debug\graph.txt
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\bin\Debug\graph.txt
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\bin\Debug\BellmanFord.exe.config
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\bin\Debug\BellmanFord.exe
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\bin\Debug\BellmanFord.pdb
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\obj\Debug\BellmanFord.csproj.AssemblyReference.cache
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\obj\Debug\BellmanFord.csproj.CoreCompileInputs.cache
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\obj\Debug\BellmanFord.exe
+C:\Users\mqpasta\source\repos\datastructure\BellmanFord\obj\Debug\BellmanFord.pdb

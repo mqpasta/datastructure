@@ -1,0 +1,14 @@
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\bin\Debug\Dijsktra.exe.config
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\bin\Debug\Dijsktra.exe
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\bin\Debug\Dijsktra.pdb
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\obj\Debug\Dijsktra.csprojResolveAssemblyReference.cache
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\obj\Debug\Dijsktra.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\obj\Debug\Dijsktra.exe
+C:\Users\AD\source\repos\Dijsktra\Dijsktra\obj\Debug\Dijsktra.pdb
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\bin\Debug\Dijsktra.exe.config
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\bin\Debug\Dijsktra.exe
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\bin\Debug\Dijsktra.pdb
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\obj\Debug\Dijsktra.csproj.AssemblyReference.cache
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\obj\Debug\Dijsktra.csproj.CoreCompileInputs.cache
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\obj\Debug\Dijsktra.exe
+C:\Users\mqpasta\source\repos\datastructure\Dijsktra\obj\Debug\Dijsktra.pdb

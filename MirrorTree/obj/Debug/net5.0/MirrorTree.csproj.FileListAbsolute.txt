@@ -1,0 +1,16 @@
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.csproj.AssemblyReference.cache
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.AssemblyInfoInputs.cache
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.AssemblyInfo.cs
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.csproj.CoreCompileInputs.cache
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\MirrorTree.exe
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\MirrorTree.deps.json
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\MirrorTree.runtimeconfig.json
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\MirrorTree.runtimeconfig.dev.json
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\MirrorTree.dll
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\ref\MirrorTree.dll
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\bin\Debug\net5.0\MirrorTree.pdb
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.dll
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\ref\MirrorTree.dll
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.pdb
+C:\Users\mqpasta\source\repos\datastructure\MirrorTree\obj\Debug\net5.0\MirrorTree.genruntimeconfig.cache
